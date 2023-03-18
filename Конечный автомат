@@ -17,13 +17,8 @@ class CommandSender {
 
 class Robot {
     Detector *det;
-        // bool graffityExists();
-        // bool hasDeltaAngle(float det);
-        // bool hasDeltaDistance(float det);*/
     EState state;
     CommandSender *cs;
-        // EMove();
-        // ERotate();
 public:
     Robot();
 
