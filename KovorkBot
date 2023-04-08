@@ -1,7 +1,7 @@
 import telebot;
 from telebot import types;
 
-bot = telebot.TeleBot('6231714472:AAGin-BbLzsXZTHtjVsvfWKfvm-n34_lfa0');
+bot = telebot.TeleBot('***');
 
 @bot.message_handler(content_types=['text'])
 
